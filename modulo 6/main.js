@@ -1,3 +1,6 @@
+//cambios realizados en el codigo
+
+// esta es una funcion
 function outer() {
     let name = "outer";
     let str = inner();
@@ -14,6 +17,8 @@ debugger;
 console.log(outer());
 console.log("Despues de llamar a outer()");
 
+
+//ejercicios de examen
 
 
 // "const x = 10";     //reference error
