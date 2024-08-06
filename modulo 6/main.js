@@ -19,7 +19,6 @@ console.log("Despues de llamar a outer()");
 
 //ejercicios de examen
 
-
 // "const x = 10";     //reference error
 //const x = 10;
 let x = 10;   //*reference error
@@ -31,7 +30,7 @@ onsole.log(x); //*reference error
 
 x += 10;    //reference errpr and type error
 
-
+//similar a if else en c ++
 try{
     ocnole.log("start")
 } catch(error)
